@@ -1,3 +1,4 @@
 venv/
 students.db
 test.db
+db.sqlite3
